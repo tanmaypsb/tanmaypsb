@@ -79,11 +79,11 @@ CS Fundamentals
 
 ## 🚀 Featured Projects
 
-### 🛟 ARES — Autonomous Rescue & Exploration System
+### 🛟 Kodane
 
 A multi-disciplinary engineering project focused on **autonomous rescue and exploration**.
 
-ARES combines AI/optimization research, high-performance simulation, backend engineering, distributed communication, databases, and a web-based dashboard into a single system.
+Kodane combines AI/optimization research, high-performance simulation, backend engineering, distributed communication, databases, and a web-based dashboard into a single system.
 
 #### ⚙️ Technology Stack
 
@@ -116,11 +116,11 @@ TypeScript      → Frontend development
 
 ---
 
-### 📡 SensorWatch
+### 📡 Senswatch
 
 A project focused on **sensor monitoring and data-driven system workflows**.
 
-SensorWatch is part of my exploration into building software that can collect, process, monitor, and make sense of real-world data.
+Senswatch is part of my exploration into building software that can collect, process, monitor, and make sense of real-world data.
 
 #### 🔍 Focus Areas
 
