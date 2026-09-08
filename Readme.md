@@ -11,7 +11,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-tanmay--psb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmay-psb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tanmaypsb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmaypsb)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanmay-psb/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanmay-psb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
