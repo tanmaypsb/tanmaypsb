@@ -4,9 +4,8 @@
 
 ### 🤖 AI/ML &nbsp;•&nbsp; 🌐 Full-Stack Development &nbsp;•&nbsp; 🐧 Linux & Systems
 
-**B.Tech Information Technology @ Manipal University Jaipur · 2028**
-
-*Learning by building, experimenting, breaking things, and understanding how they work.*
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Btech+IT+@Manipal+University+Jaipur!)
+</p>**B.Tech Information Technology @ Manipal University Jaipur · 2028**
 
 <br>
 
