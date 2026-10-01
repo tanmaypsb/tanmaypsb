@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Tanmay
 
-### 🤖 AI/ML &nbsp;•&nbsp; 🌐 Full-Stack Development &nbsp;•&nbsp; 🐧 Linux & Systems
+### 🤖 AI &nbsp;•&nbsp; 🌐 Full-Stack Development &nbsp;•&nbsp; 🐧 Linux & Systems
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Btech+IT+@Manipal+University+Jaipur!)
 
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Information Technology student at Manipal University Jaipur**, exploring different areas of software engineering with a current focus on **Artificial Intelligence, Full-Stack Development, and Linux**.
+I'm a **B.Tech Information Technology student at Manipal University Jaipur**, exploring different areas of software engineering with a current focus on **Artificial Intelligence, Full-Stack Development, and Systems**.
 
 I'm interested in understanding software at different levels — from algorithms and machine learning models to APIs, databases, operating systems, distributed systems, and complete applications.
 
