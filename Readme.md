@@ -76,7 +76,7 @@ B.Tech IT @ Manipal University Jaipur
 
 **Development & Systems**
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,fastapi,postgres,docker,git,github" />
 
 </div>
 
