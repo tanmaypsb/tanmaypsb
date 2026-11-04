@@ -90,7 +90,7 @@ B.Tech IT @ Manipal University Jaipur
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tanmay-psb/tanmay-psb/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/tanmaypsb/tanmaypsb/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
