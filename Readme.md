@@ -16,56 +16,34 @@ B.Tech IT @ Manipal University Jaipur
 
 ---
 
-## `$ terminal`
+## `$ ./xaiden.sh`
 
-<table>
-<tr>
-<td>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+Tanmay+Pratap+Singh;%24+explore+--domain+AI%2C+Systems%2C+Backend;%24+build+--mode+experimental;%24+status+--message+Always+learning..." alt="Animated terminal typing"/>
+
+</div>
 
 ```text
-╭──────────────────────────────────────────────╮
-│  ● ● ●          XAIDEN@GITHUB: ~            │
-├──────────────────────────────────────────────┤
-│                                              │
-│   ████████╗ █████╗ ███╗   ██╗███╗   ███╗    │
-│   ╚══██╔══╝██╔══██╗████╗  ██║████╗ ████║    │
-│      ██║   ███████║██╔██╗ ██║██╔████╔██║    │
-│      ██║   ██╔══██║██║╚██╗██║██║╚██╔╝██║    │
-│      ██║   ██║  ██║██║ ╚████║██║ ╚═╝ ██║    │
-│      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝    │
-│                                              │
-│  $ neofetch                                  │
-│                                              │
-│  USER      Tanmay Pratap Singh               │
-│  OS        Manipal University Jaipur         │
-│  ROLE      IT Undergraduate                  │
-│  FOCUS     AI / ML • Backend • Systems       │
-│  SHELL     Bash                              │
-│  EDITOR    VS Code                           │
-│  LANG      Python, C++, Java, TypeScript     │
-│                                              │
-│  $ ls ~/interests                            │
-│                                              │
-│  artificial-intelligence/                    │
-│  optimization/                               │
-│  distributed-systems/                        │
-│  linux/                                      │
-│  software-engineering/                       │
-│                                              │
-│  $ echo "learn. build. break. repeat."       │
-│                                              │
-│  learn. build. break. repeat.                │
-│                                              │
-│  $ █                                         │
-╰──────────────────────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
----
-
+┌──[ TANMAY@XAIDEN ]─────────────────────────────┐
+│                                                │
+│  [ SYSTEM ]                                    │
+│  ├─ USER      Tanmay Pratap Singh              │
+│  ├─ ROLE      IT Undergraduate                 │
+│  ├─ OS        Linux / Windows                  │
+│  └─ STATUS    Building & Learning              │
+│                                                │
+│  [ CURRENT DIRECTORIES ]                       │
+│  ├─ /ai-ml                                     │
+│  ├─ /backend                                    │
+│  ├─ /systems                                    │
+│  └─ /optimization                               │
+│                                                │
+│  [ EXECUTION ]                                  │
+│  └─ learn → build → debug → repeat              │
+│                                                │
+└────────────────────────────────────────────────┘
+``
 ## `$ tech_stack`
 
 <div align="center">
