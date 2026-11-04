@@ -25,37 +25,6 @@
 
 </div>
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  XAIDEN@GITHUB                                      [ONLINE]│
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [ SYSTEM ]                                                  │
-│                                                              │
-│  USER       Tanmay Pratap Singh                              │
-│  ROLE       IT Undergraduate                                 │
-│  MINDSET    Engineer • Explorer • Builder                    │
-│  INTERESTS  AI / ML • Backend • Systems • Optimization       │
-│                                                              │
-│  [ CORE DIRECTORIES ]                                        │
-│                                                              │
-│  ├── /artificial-intelligence                                │
-│  ├── /distributed-systems                                    │
-│  ├── /optimization                                           │
-│  └── /low-level-engineering                                  │
-│                                                              │
-│  [ EXECUTION ]                                               │
-│                                                              │
-│  learn → build → break → understand → repeat                 │
-│                                                              │
-│  STATUS: ALWAYS LEARNING                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
