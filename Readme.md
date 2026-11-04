@@ -34,13 +34,13 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ts" />
 
 <br/>
 
 **Development & Systems**
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,spring,postgres,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,fastapi,spring,postgres,docker,git,github" />
 
 </div>
 
