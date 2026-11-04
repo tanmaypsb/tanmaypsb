@@ -3,8 +3,6 @@
 <!-- CUSTOM BANNER -->
 <img src="banner.png" width="100%" alt="Tanmay Pratap Singh"/>
 
-`AI/ML` • `Software Engineering` • `Systems`
-
 B.Tech IT @ Manipal University Jaipur
 
 *Curious about systems. Obsessed with building.*
