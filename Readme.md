@@ -3,8 +3,6 @@
 <!-- CUSTOM BANNER -->
 <img src="assets/banner.png" width="100%" alt="XAIDEN"/>
 
-# Tanmay Pratap Singh
-
 `AI/ML` • `Software Engineering` • `Systems`
 
 B.Tech IT @ Manipal University Jaipur
