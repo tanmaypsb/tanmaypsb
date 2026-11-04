@@ -5,7 +5,7 @@
 
 B.Tech IT @ Manipal University Jaipur
 
-*Curious about systems. Obsessed with building.*
+*Curious about systems*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tanmay-psb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanmaypsb)
