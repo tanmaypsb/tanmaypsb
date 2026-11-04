@@ -72,11 +72,11 @@ B.Tech IT @ Manipal University Jaipur
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
 
 **Development & Systems**
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,spring,postgres,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker,linux,git,github" />
 
 </div>
 
