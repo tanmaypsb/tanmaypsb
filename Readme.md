@@ -1,7 +1,7 @@
  <div align="center">
 
 <!-- CUSTOM BANNER -->
-<img src="assets/banner.png" width="100%" alt="XAIDEN"/>
+**<img src="assets/banner.png" width="100%" alt="XAIDEN"/>**
 
 `AI/ML` • `Software Engineering` • `Systems`
 
